@@ -1,0 +1,9 @@
+{
+  "name": "HappyLager",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
